@@ -13,7 +13,7 @@ Deploy a simple HTML website using GitHub Pages.
 
 ## Steps I Followed
 1. Created `index.html` with personal intro
-2. Created `style.css` for customization (blue gradient + card design)
+2. Created `style.css` for customization
 3. Pushed to GitHub repo
 4. Enabled GitHub Pages from Settings -> Pages -> main branch / root
 5. Site live in 2 mins!
@@ -29,13 +29,6 @@ Learned how to deploy static content for FREE using GitHub Pages.
 
 ## Screenshots
 
-
 Live Website Deployed!
 
-![Live Site](live%20in%20websites.png)
-
-### Live Website
-![Live Site](live%20in%20websites.png)
-
-### GitHub Pages Settings
-![Pages Enabled](pages-settings.png)
+![Live Site](live-website.png)
