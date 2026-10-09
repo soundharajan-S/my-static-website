@@ -28,4 +28,14 @@ Deploy a simple HTML website using GitHub Pages.
 Learned how to deploy static content for FREE using GitHub Pages.
 
 ## Screenshots
-[Add your live site screenshot here]
+
+
+Live Website Deployed!
+
+![Live Site](live%20in%20websites.png)
+
+### Live Website
+![Live Site](live%20in%20websites.png)
+
+### GitHub Pages Settings
+![Pages Enabled](pages-settings.png)
